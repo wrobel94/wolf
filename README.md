@@ -7,7 +7,7 @@ Aplikacja nie posiada graficznego interfejsu użytkowanika, dostępna jest jedyn
 
 Diagram klas:
 ![alt text](
-        https://github.com/wrobel94/wolf/blob/master/ClassDiagram.png.JPG
+        https://github.com/wrobel94/wolf/blob/master/ClassDiagram.png
       )
 
 Przykładowe zrzuty z działanai aplikacj:
